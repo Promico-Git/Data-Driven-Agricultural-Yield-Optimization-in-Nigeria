@@ -24,7 +24,8 @@ The analysis successfully identified the optimal growing location for each crop 
 
 * Python
 * Pandas
+* Numpy
 * Matplotlib
 * Seaborn
 * Scipy
-* Statsmodels
+* Sklearn
